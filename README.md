@@ -13,6 +13,7 @@ This project implements a dynamic pipeline that processes multiple PDF documents
 
 ## Project Structure
 
+```plaintext
 pdf_pipeline/
 ├── README.md            # Documentation
 ├── Dockerfile            # Optional Docker setup
@@ -33,7 +34,7 @@ pdf_pipeline/
 └── performance/
     ├── benchmark.py      # Scripts to measure performance, concurrency, and memory
     └── results/          # Store performance logs and reports
-
+```
 
 ## Installation
 1. **Clone the repository**:
