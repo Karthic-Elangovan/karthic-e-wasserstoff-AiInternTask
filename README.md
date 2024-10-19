@@ -39,7 +39,7 @@ pdf_pipeline/
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone "https://github.com/Karthic-Elangovan/karthic-e-wasserstoff-AiInternTask.git"
    cd pdf_pipeline
    ```
 
